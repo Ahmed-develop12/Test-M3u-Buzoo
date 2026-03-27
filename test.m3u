@@ -1,8 +1,16 @@
 #EXTM3U
-#EXTINF:0 tvg-name="Test 1" tvg-country="RU" tvg-language="French" tvg-logo="https://steemitimages.com/1280x0/https://teorico.net/images/test-dgt-1.png" group-title="News",RT France
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:0 tvg-name="Russia today News" tvg-country="RU" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Test2-Icon.png" group-title="News",RT News
-https://data.playground.edgeone.ai/resource/video/m3u8/demo-1.m3u8?key=1720425221-0-0-127f85767dc16f7fbb9e2d4a329567cb
-#EXTINF:0 group-title="Documentary" tvg-name="RT Documentary" tvg-language="English" tvg-country="RU" tvg-logo="https://i.imgur.com/6iJiWUe.png",RT Documentary
-https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:0 tvg-name="Newsmax TV" tvg-language="English" tvg-country="US" tvg-id="Newsmax-TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="News",Newsmax TV
+
+#EXTINF:-1 tvg-name="France 24 EN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/France_24_logo.svg" group-title="News",France 24 EN
+https://live.france24.com/hls/live/2037175/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera EN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-name="DW English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/DW_logo.svg" group-title="News",DW English
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1 tvg-name="NASA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/NASA_logo.svg" group-title="Science",NASA TV
+https://ntv1.akamaized.net/hls/live/2014518/NASA-TV/master.m3u8
+
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Bloomberg_logo.svg" group-title="Business",Bloomberg TV
+https://bloomberg-bloomberg-1-eu.rakuten.wurl.tv/playlist.m3u8
