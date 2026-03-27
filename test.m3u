@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="RT France" tvg-logo="https://i.imgur.com/1k6Yx1V.png" group-title="News",RT France
+#EXTINF:-1 tvg-name="RT France" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrHR030gT3yqk_dzZgY-Ooi-Aq9R_yRt7E_Q&s" group-title="News",RT France
 https://test-streams.mux.dev/x36xhzz/url_8/193039199_mp4_h264_aac_fhd_7.m3u8
 
 #EXTINF:-1 tvg-name="RT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Test2-Icon.png" group-title="News",RT News
@@ -12,5 +12,5 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-logo="https://i.imgur.com/Twkovic.gif" group-title="News",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
-#EXTINF:-1 tvg-name="Americas Voice" tvg-logo="https://i.imgur.com/Z6WbK9k.png" group-title="News",Americas Voice
+#EXTINF:-1 tvg-name="Americas Voice" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREWpDubT2qCgA4_4OlV69Z7yeO3vbjhclPCA&sg" group-title="News",Americas Voice
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
