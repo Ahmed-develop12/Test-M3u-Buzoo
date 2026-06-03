@@ -1,0 +1,9 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-name="RT News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Test2-Icon.png" group-title="News",RT News
+https://data.playground.edgeone.ai/resource/video/m3u8/demo-1.m3u8?key=1720425221-0-0-127f85767dc16f7fbb9e2d4a329567cb
+
+
+#EXTINF:-1 tvg-name="Americas Voice" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREWpDubT2qCgA4_4OlV69Z7yeO3vbjhclPCA&sg" group-title="News",Americas Voice
+https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
